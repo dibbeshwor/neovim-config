@@ -1,10 +1,10 @@
 return {
-  { "tiagovla/tokyodark.nvim" },
+  { "catppuccin/nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "tokyodark",
+      colorscheme = "catppuccin-mocha", -- kanagawa-dragon or kanagawa-wave
     },
   },
 }
