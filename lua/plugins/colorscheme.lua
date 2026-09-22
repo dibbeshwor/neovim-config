@@ -1,10 +1,10 @@
 return {
-  { "EdenEast/nightfox.nvim" },
+  { "catppuccin/nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "carbonfox",
+      colorscheme = "catppuccin-mocha", -- kanagawa-dragon or kanagawa-wave
     },
   },
 }
