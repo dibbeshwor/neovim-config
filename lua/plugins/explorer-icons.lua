@@ -3,7 +3,7 @@
 return {
   -- mini.icons provides the per-file-type glyphs/colors used by the explorer.
   {
-    "echasnovski/mini.icons",
+    "nvim-mini/mini.icons",
     opts = {
       -- More colorful, distinct file-type icons.
       extension = {
